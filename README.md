@@ -16,3 +16,7 @@ Anybody not following the course are still welcome to use them (in the unlikely 
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schiotz/DTU_10316/blob/master/NeuralNetwork_Tutorial-Conv.ipynb)
 
 
+* NeuralNetwork_Tutorial-Conv-Bigger
+
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schiotz/DTU_10316/blob/master/NeuralNetwork_Tutorial-Conv-Bigger.ipynb)
+
